@@ -19,18 +19,18 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 
 ## 🚀 Languages and Tools: 
 
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/html.png"/>
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/css.png" />
+<img align="left" alt="html" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/html.png"/>
+<img align="left" alt="css" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/css.png" />
 <img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/javascript.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/express.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/mongodb.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/mysql.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/nodejs.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/react.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/angular.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/aws.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/git.png" />
-<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/github.png" /><br>
+<img align="left" alt="express" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/express.png" />
+<img align="left" alt="mongodb" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/mongodb.png" />
+<img align="left" alt="mysql" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/mysql.png" />
+<img align="left" alt="nodejs" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/nodejs.png" />
+<img align="left" alt="react" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/react.png" />
+<img align="left" alt="angular" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/angular.png" />
+<img align="left" alt="aws" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/aws.png" />
+<img align="left" alt="git" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/git.png" />
+<img align="left" alt="github" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/github.png" /><br>
   <br/>
   <br/>
 <p align="center">
