@@ -17,7 +17,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 - 📫 How to reach me **asgedomhail@gmail.com**
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools: 
 
 <img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/html.png"/>
 <img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/software-developer/blob/main/assets/css.png" />
