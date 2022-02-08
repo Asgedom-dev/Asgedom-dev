@@ -12,7 +12,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[portfolio](on progress)(https://asgedom.com/)**
+- 👨‍💻 Some of my projects are available at **[portfolio](https://asgedom.com/)** (on progress)
 
 - 📫 How to reach me **asgedomhail@gmail.com**
 
