@@ -61,5 +61,4 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 ## Connect with me:
 <p align="left">
     <a href = "https://www.linkedin.com/in/asgedom/"><img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
- <img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/portfolio.png" /><br>
 </p>
