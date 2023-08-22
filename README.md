@@ -48,13 +48,6 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
-
-<a href="https://github.com/Asgedom-dev/github-readme-activity-graph"><img alt="Asgedom's Activity Graph" src="https://game-hub-96mw.vercel.app/" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
