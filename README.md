@@ -51,7 +51,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 <br/>
 <br/>
 
-<a href="https://github.com/Asgedom-dev/github-readme-activity-graph"><img alt="Asgedom's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Asgedom-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Asgedom-dev/github-readme-activity-graph"><img alt="Asgedom's Activity Graph" src="[https://activity-graph.herokuapp.com/graph?username=Asgedom-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"](https://game-hub-96mw.vercel.app/) /></a>
 
 <br/>
 <br/>
