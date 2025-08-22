@@ -12,8 +12,6 @@ Adept at cloud deployments on AWS (S3, EC2, Lambda, CloudWatch), with additional
 
 - 🔭 I’m currently working on <a href="https://game-hub-96mw.vercel.app/">**Game-hub Website**</a>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 📫 How to reach me **hailasgedom@gmail.com**
 
 
