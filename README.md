@@ -51,5 +51,5 @@ Adept at cloud deployments on AWS (S3, EC2, Lambda, CloudWatch), with additional
 
 ## Connect with me:
 <p align="left">
-    <a href = "[https://www.linkedin.com/in/asgedom/](https://www.linkedin.com/in/asgedom/)"><img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
+    <a href = "https://www.linkedin.com/in/asgedom/"><img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
 </p>
