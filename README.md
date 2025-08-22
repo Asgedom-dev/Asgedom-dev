@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asgedom</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sacramento CA.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Fontana CA.</h3>
 <p>Highly skilled Software Engineer with 5+ years of experience across the Software Development Life Cycle (SDLC), working in Agile-Scrum environments. Proven expertise in designing and developing responsive, cross-browser applications using HTML5, CSS3, JavaScript (ES5/ES6+), TypeScript, ReactJS, React Native, Angular, NodeJS, and Bootstrap. Strong background in Object-Oriented Analysis and Design, with 4+ years building Single Page Applications (SPAs) leveraging ReactJS and Angular.
 
 Experienced in CSS cross-browser compatibility, responsive web design, DOM manipulation, and browser performance optimization. Hands-on proficiency with RESTful API development using Express.js, as well as SQL/NoSQL databases (MySQL, MongoDB, PostgreSQL). Skilled in using modern libraries and tools such as Redux Toolkit, React Query, Formik, Jest, Cypress, and SonarQube for robust, scalable solutions.
